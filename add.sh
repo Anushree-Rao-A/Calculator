@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo "add"
+echo "add 1234567889900-"
